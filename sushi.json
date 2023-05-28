@@ -1,0 +1,42 @@
+[
+  {
+    "Sushi_name": "Sushi1",
+    "Price": 1,
+    "Stock": 10
+  },
+  {
+    "Sushi_name": "Sushi2",
+    "Price": 2,
+    "Stock": 10
+  },
+  {
+    "Sushi_name": "Sushi3",
+    "Price": 3,
+    "Stock": 10
+  },
+  {
+    "Sushi_name": "Sushi4",
+    "Price": 4,
+    "Stock": 10
+  },
+  {
+    "Sushi_name": "Sushi5",
+    "Price": 5,
+    "Stock": 10
+  },
+  {
+    "Sushi_name": "Sushi6",
+    "Price": 6,
+    "Stock": 10
+  },
+  {
+    "Sushi_name": "Sushi7",
+    "Price": 7,
+    "Stock": 10
+  },
+  {
+    "Sushi_name": "Sushi8",
+    "Price": 8,
+    "Stock": 10
+  }
+]
